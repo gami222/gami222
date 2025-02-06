@@ -202,7 +202,11 @@ footer {
 .clear {
   clear: left;
 }
-
+.gami {
+  font-size:30px;
+  coler:red;
+  width: 0 auto;
+}
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
