@@ -202,7 +202,7 @@ footer {
 .clear {
   clear: left;
 }
-.gami {
+.gami h1 {
   font-size:30px;
   coler:red;
   width: 0 auto;
